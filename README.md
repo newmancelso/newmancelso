@@ -2,7 +2,10 @@
 
 ###
 
-<p data-importer="text" align="left">Sou profissional da área de Tecnologia da Informação, com experiência em suporte técnico, redes, manutenção de computadores, sistemas e atendimento aos usuários.<br><br>Ao longo da minha carreira, desenvolvi meus conhecimentos principalmente através da prática e da busca por soluções para os problemas do dia a dia.<br><br>Atualmente, estou cursando Inteligência Artificial, buscando ampliar meus conhecimentos e acompanhar as novas tecnologias. Meu objetivo é continuar crescendo profissionalmente na área de TI e, no futuro, unir minha experiência com os conhecimentos em Inteligência Artificial.</p>
+<p data-importer="text" align="left">Meu nome é Celso Henrique Luiz Inácio, tenho 44 anos e sou profissional da área de Tecnologia da Informação. Tenho experiência com suporte técnico, redes,cisco ccna, infraestrutura, manutenção de equipamentos e atendimento aos usuários.
+
+Atualmente, curso Tecnologia em Inteligência Artificial, buscando ampliar meus conhecimentos e acompanhar as novas tecnologias. Meu objetivo é unir minha experiência em TI aos conhecimentos em Inteligência Artificial, buscando crescimento profissional e novas oportunidades na área de tecnologia.
+</p>
 
 ###
 
