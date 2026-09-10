@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">Meu nome é Celso Henrique Luiz Inácio, tenho 44 anos e sou profissional da área de Tecnologia da Informação. Tenho experiência com suporte técnico, redes,cisco ccna, infraestrutura, manutenção de equipamentos e atendimento aos usuários.
+<p data-importer="text" align="left"> Celso Henrique Luiz Inácio, tenho 44 anos e sou profissional da área de Tecnologia da Informação. Tenho experiência com suporte técnico, redes,cisco ccna, infraestrutura, manutenção de equipamentos e atendimento aos usuários.
 
 Atualmente, curso Tecnologia em Inteligência Artificial, buscando ampliar meus conhecimentos e acompanhar as novas tecnologias. Meu objetivo é unir minha experiência em TI aos conhecimentos em Inteligência Artificial, buscando crescimento profissional e novas oportunidades na área de tecnologia.
 </p>
